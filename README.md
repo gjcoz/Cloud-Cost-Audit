@@ -1,19 +1,23 @@
-# Cloud Cost Audit
+# Cloud Cost Audit: Global Insurance Corp
 
-## Project Overview
-This project contains my analysis of cloud infrastructure costs for Global Insurance Corp. The goal of this audit was to identify cost-saving opportunities and optimize resource utilization.
+## Executive Summary
+This project provides a comprehensive audit of cloud infrastructure expenditures for Global Insurance Corp. The analysis focuses on identifying cost inefficiencies, optimizing resource allocation, and providing actionable insights for infrastructure management.
+
+## Technical Approach
+* **Data Ingestion & Preprocessing:** Leveraged Python and Pandas to clean and normalize raw cloud billing data, ensuring data integrity for analysis.
+* **Exploratory Data Analysis (EDA):** Performed statistical analysis to identify cost anomalies, peak usage patterns, and underutilized instances.
+* **Cost Optimization Strategy:** Developed a framework to prioritize cost-saving initiatives based on ROI and resource impact.
+* **Visualization:** Utilized [Matplotlib/Seaborn/Plotly] to create visual representations of cost drivers and potential savings.
 
 ## Key Findings
-* [Insert your first major finding here, e.g., "Identified 15% potential savings in monthly EC2 spend."]
-* [Insert your second finding here, e.g., "Detected underutilized storage buckets that can be archived."]
+* [Finding 1, e.g., "Identified an 'idle resource' rate of 12% across development environments."]
+* [Finding 2, e.g., "Recommended right-sizing of EC2 instances to align with actual utilization patterns."]
 
-## Technologies Used
-* Python
-* Jupyter Notebooks
-* Pandas / Matplotlib (or whatever libraries you used)
-
-## Data Source
-[Briefly mention where the data came from, e.g., "The data was provided as a sample dataset for internal auditing."]
+## Technologies & Libraries
+* **Language:** Python
+* **Data Manipulation:** Pandas, NumPy
+* **Data Visualization:** Matplotlib, Seaborn
+* **Environment:** Jupyter Notebooks
 
 ## How to View
-You can view the full analysis directly in the [GLOBAL_INSURANCE_CORP_01.ipynb](GLOBAL_INSURANCE_CORP_01.ipynb) file above.
+The full technical analysis can be found in [GLOBAL_INSURANCE_CORP_01.ipynb](GLOBAL_INSURANCE_CORP_01.ipynb).

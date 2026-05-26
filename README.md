@@ -14,12 +14,11 @@ This project provides a comprehensive audit of cloud infrastructure expenditures
 * Proposed Automated Governance: Transitioned to an "Automated Lifecycle" model using Infrastructure as Code (IaC) to enforce TTL (Time-To-Live) tags on non-production assets.
 * Implemented Proactive Controls: Designed a serverless-based automated shutdown workflow (triggered after 7 days of inactivity) to ensure cost efficiency without manual intervention.
 
-  Remediation Strategy: Automated Governance
-*Objective: Transition from manual audits to automated lifecycle management to prevent asset stagnation.
-
-*Infrastructure as Code (IaC): Enforced TTL (Time-To-Live) tags on all non-production assets to automate ownership tracking.
-
-*Automated Lifecycle Hooks: Implemented serverless functions to trigger shutdown warnings after 5 days of inactivity, with automated termination after 7 days.
+  ## Remediation Strategy: Automated Governance
+* **Objective:** Transition from manual audits to automated lifecycle management to prevent asset stagnation.
+* **Infrastructure as Code (IaC):** Enforced TTL (Time-To-Live) tags on all non-production assets to automate ownership tracking.
+* **Automated Lifecycle Hooks:** Implemented serverless functions to trigger shutdown warnings after 5 days of inactivity, with automated termination after 7 days.
+* **Continuous Monitoring:** Shifted from static reporting to real-time alerting, notifying department owners at the 3-day inactivity threshold to ensure accountability.
 
 Continuous Monitoring: Shifted from static reporting to real-time alerting, notifying department owners at the 3-day inactivity threshold to ensure accountability.
 ## Technologies & Libraries

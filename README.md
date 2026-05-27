@@ -28,4 +28,4 @@ Continuous Monitoring: Shifted from static reporting to real-time alerting, noti
 * **Environment:** Jupyter Notebooks
 
 ## How to View
-The full technical analysis can be found in [GLOBAL_INSURANCE_CORP_01.ipynb](GLOBAL_INSURANCE_CORP_01.ipynb).
+The full technical analysis can be found [here](https://colab.research.google.com/drive/1R5eo80oPxE-qRQHCIFCoNwCPDcMHyzPa?usp=drive_link).

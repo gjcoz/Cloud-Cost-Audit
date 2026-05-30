@@ -33,4 +33,4 @@ The full technical analysis can be found [here](https://colab.research.google.co
 ### Project Updates
 * May 30, 2026: *Refined methodology documentation and updated project links for improved accessibility.*
 
-* Github keeps throwing errors using the notebook file. I deleted notebook and replaced with the HTML file.  
+* May 30, 2026: *Github keeps throwing errors using the notebook file. I deleted notebook and replaced with the HTML file.*  

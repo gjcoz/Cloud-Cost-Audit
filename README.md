@@ -29,3 +29,6 @@ Continuous Monitoring: Shifted from static reporting to real-time alerting, noti
 
 ## How to View
 The full technical analysis can be found [here](https://colab.research.google.com/drive/1R5eo80oPxE-qRQHCIFCoNwCPDcMHyzPa?usp=drive_link).
+
+### Project Updates
+* May 30, 2026: *Refined methodology documentation and updated project links for improved accessibility.*
